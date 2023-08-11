@@ -1,1 +1,3 @@
 # ImageEncoderParser
+
+提取或删除stable diffusion和midjourney生成的图片中的提示词等信息
